@@ -1,8 +1,9 @@
 # DoS Simulation & Splunk Threat Hunting
 
-![Splunk](https://img.shields.io/badge/splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware_Workstation-%2356595D.svg?style=for-the-badge&logo=vmware&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 ## Objective
 The objective of this project is to set up an isolated virtual environment to simulate an Application Layer (Layer 7) HTTP Flood attack then ingest the resulting web traffic into a SIEM (Splunk), and execute  mitigation techniques to defend the web server.
